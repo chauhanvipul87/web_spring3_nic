@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="NIC">
+        <wb-resource deploy-path="/" source-path="/WebContent"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/controller"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/Test"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/services"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/Dao"/>
+        <property name="java-output-path" value="/NIC/build/classes"/>
+        <property name="context-root" value="NIC"/>
+    </wb-module>
+</project-modules>
